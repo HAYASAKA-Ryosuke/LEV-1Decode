@@ -1,4 +1,5 @@
 import numpy as np
+import pybeads as be
 
 class Morse:
     def __init__(self, sample_rate, dot_length, space_length):
